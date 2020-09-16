@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Ex. 1.5: Print temperature conversion table in reverse */
+/* Ex. 1-5: Print temperature conversion table in reverse */
 int main()
 {
     int fahr;

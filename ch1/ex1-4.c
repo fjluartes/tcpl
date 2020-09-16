@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Ex. 1.4: Celsius to Fahrenheit Table */
+/* Ex. 1-4: Celsius to Fahrenheit Table */
 int main()
 {
     float celsius, fahr;

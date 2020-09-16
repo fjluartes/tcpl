@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-/* count lines in input */
-/* single quotes represent numerical value of char inside it */
+/* Ex. 1-8: count lines in input */
 int main()
 {
     int c, nl;

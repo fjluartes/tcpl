@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Ex. 1.3: Heading above table */
+/* Ex. 1-3: Heading above table */
 int main()
 {
     float fahr, celsius;
