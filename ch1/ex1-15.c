@@ -1,7 +1,7 @@
 #include <stdio.h>
 float convert(float n);
 
-/* Ex.1-15: Temperature conversion function */
+/* Ex. 1-15: Temperature conversion function */
 int main()
 {
     float i;
