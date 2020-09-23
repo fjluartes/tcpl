@@ -8,9 +8,13 @@ int main()
     nc = 0;
     while((c = getchar()) != EOF) {
         ++nc;
-        if (nc == COL) {
+        if (nc >= COL) {
             putchar(c);
             putchar('\n');
+            nc = 0;
+        }
+        else if (c == '\n') {
+            putchar(c);
             nc = 0;
         }
         else
